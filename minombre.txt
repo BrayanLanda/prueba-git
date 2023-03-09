@@ -1,3 +1,4 @@
 Hola mi nombre es Brayan
 Estoy aprendidendo git
 Estoy en el bootcapm del profe Guillo Rodas
+Espero llegar a ser dasarrollador full stack en javaScript
